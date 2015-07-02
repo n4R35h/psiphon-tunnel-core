@@ -67,7 +67,7 @@ Roadmap
 ### TODO (future)
 
 * meek enhancements
-  * address this: https://trac.torproject.org/projects/tor/wiki/doc/meek#HowtolooklikebrowserHTTPS (new Go client is equivilent to current Windows client, but differs from current Android client which uses the same Android HTTPS stack used by regular apps)
+  * address this: https://trac.torproject.org/projects/tor/wiki/doc/meek#HowtolooklikebrowserHTTPS (new Go client is equivalent to current Windows client, but differs from current Android client which uses the same Android HTTPS stack used by regular apps)
 * SSH compression
 * preemptive reconnect functionality
   * unfronted meek almost makes this obsolete, since meek sessions survive underlying
